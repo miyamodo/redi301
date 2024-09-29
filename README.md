@@ -11,16 +11,3 @@
 ### Params
 - -a Listen address，just like ```ip:port```, exp : ```0.0.0.0:80```, the default value is ```0.0.0.0:80```.
 - -t Prefix of the target redirect url, just like：```http://www.whitehouse.gov```,both http and https supported, please do not end with ```/```.
-
-### TODO
-- [x] Http redirect to Http. (exp: http://blocked.domain -> http://unblocked.domain )
-- [x] Http redirect to Https. (exp: http://blocked.domain -> https://unblocked.domain )
-- [ ] Https redirect to Http. (exp: https://blocked.domain -> http://unblocked.domain )
-- [ ] Https redirect to Https. (exp: https://blocked.domain -> https://unblocked.domain )
-
-### Donation
-
-- If you like this application, you can donate to the author. Thank you so much.
-- USDT(TRC20) wallet: TB8meT4Pm9KFXRJ8SNCfxx4yBGPbk3Ekip
-
-  <div style="text-align: center; width: 500px; border: green solid 1px;"><img src="https://img.mdev.eu.org/file/5bda398b80a9ce195b72c.png"></div>

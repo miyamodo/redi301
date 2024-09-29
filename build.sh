@@ -1,0 +1,1 @@
+GOOS=linux GOARCH=amd64 go build -o ./bin/redi301_$(date +%Y%m%d_%H%M%S)
