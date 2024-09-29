@@ -10,4 +10,3 @@ yarn*.log
 bin/
 !bin/redi301
 full
-git pu
